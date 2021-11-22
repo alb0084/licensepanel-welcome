@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/licensepanel/welcome/static/css/main.256d226c.chunk.css",
-    "main.js": "/licensepanel/welcome/static/js/main.e503a3a3.chunk.js",
-    "main.js.map": "/licensepanel/welcome/static/js/main.e503a3a3.chunk.js.map",
-    "runtime-main.js": "/licensepanel/welcome/static/js/runtime-main.fff164e9.js",
-    "runtime-main.js.map": "/licensepanel/welcome/static/js/runtime-main.fff164e9.js.map",
-    "static/js/2.0cf30428.chunk.js": "/licensepanel/welcome/static/js/2.0cf30428.chunk.js",
-    "static/js/2.0cf30428.chunk.js.map": "/licensepanel/welcome/static/js/2.0cf30428.chunk.js.map",
-    "index.html": "/licensepanel/welcome/index.html",
-    "static/css/main.256d226c.chunk.css.map": "/licensepanel/welcome/static/css/main.256d226c.chunk.css.map",
-    "static/js/2.0cf30428.chunk.js.LICENSE.txt": "/licensepanel/welcome/static/js/2.0cf30428.chunk.js.LICENSE.txt"
+    "main.css": "/licensepanel-welcome/static/css/main.256d226c.chunk.css",
+    "main.js": "/licensepanel-welcome/static/js/main.e503a3a3.chunk.js",
+    "main.js.map": "/licensepanel-welcome/static/js/main.e503a3a3.chunk.js.map",
+    "runtime-main.js": "/licensepanel-welcome/static/js/runtime-main.45f74b7b.js",
+    "runtime-main.js.map": "/licensepanel-welcome/static/js/runtime-main.45f74b7b.js.map",
+    "static/js/2.ef1179b1.chunk.js": "/licensepanel-welcome/static/js/2.ef1179b1.chunk.js",
+    "static/js/2.ef1179b1.chunk.js.map": "/licensepanel-welcome/static/js/2.ef1179b1.chunk.js.map",
+    "index.html": "/licensepanel-welcome/index.html",
+    "static/css/main.256d226c.chunk.css.map": "/licensepanel-welcome/static/css/main.256d226c.chunk.css.map",
+    "static/js/2.ef1179b1.chunk.js.LICENSE.txt": "/licensepanel-welcome/static/js/2.ef1179b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fff164e9.js",
-    "static/js/2.0cf30428.chunk.js",
+    "static/js/runtime-main.45f74b7b.js",
+    "static/js/2.ef1179b1.chunk.js",
     "static/css/main.256d226c.chunk.css",
     "static/js/main.e503a3a3.chunk.js"
   ]
