@@ -1,4 +1,4 @@
-# licensepanel
+# licenses' panel
 
 The following demo project manages a licensing system associated with a personal device.  
 Technology implementations to complete the following demo: Javascript + typescript, WebSocket (firebase), Css3 module.
