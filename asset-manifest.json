@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/licensepanel-welcome/static/css/main.aed1212d.chunk.css",
-    "main.js": "/licensepanel-welcome/static/js/main.d04fb347.chunk.js",
-    "main.js.map": "/licensepanel-welcome/static/js/main.d04fb347.chunk.js.map",
+    "main.js": "/licensepanel-welcome/static/js/main.5d07a938.chunk.js",
+    "main.js.map": "/licensepanel-welcome/static/js/main.5d07a938.chunk.js.map",
     "runtime-main.js": "/licensepanel-welcome/static/js/runtime-main.45f74b7b.js",
     "runtime-main.js.map": "/licensepanel-welcome/static/js/runtime-main.45f74b7b.js.map",
     "static/js/2.42b12d41.chunk.js": "/licensepanel-welcome/static/js/2.42b12d41.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.45f74b7b.js",
     "static/js/2.42b12d41.chunk.js",
     "static/css/main.aed1212d.chunk.css",
-    "static/js/main.d04fb347.chunk.js"
+    "static/js/main.5d07a938.chunk.js"
   ]
 }
